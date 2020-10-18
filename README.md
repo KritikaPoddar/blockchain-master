@@ -1,5 +1,5 @@
 # Learn Blockchains by Building One
-
+# starting to learn blockchains
 [![Build Status](https://travis-ci.org/dvf/blockchain.svg?branch=master)](https://travis-ci.org/dvf/blockchain)
 
 This is the source code for my post on [Building a Blockchain](https://medium.com/p/117428612f46). 
@@ -59,7 +59,7 @@ https://www.visualstudio.com/vs/
 4. Click the "Start" button, or hit F5 to run. The program executes in a console window, and is controlled via HTTP with the same commands as the Python version.
 
 
-## Contributing
+## Contributing to git
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
